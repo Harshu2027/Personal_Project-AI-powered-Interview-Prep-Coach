@@ -18,18 +18,6 @@
 
 ---
 
-## 🔑 Getting Your API Key
-
-1. Go to [console.anthropic.com](https://console.anthropic.com)
-2. Sign up / log in
-3. Click **API Keys** → **Create Key**
-4. Copy the key (starts with `sk-ant-`)
-5. Paste it in the **Setup** page of the app
-
-> Your key is stored in your browser's localStorage — it never leaves your machine.
-
----
-
 ## ✨ Features
 
 | Feature | Description |
@@ -53,7 +41,7 @@
 
 ---
 
-## 🗂 Project Structure
+## 🗂 Project Structure (for now, still needs backend and database to be updated)
 
 ```
 ai-interview-coach/
@@ -70,7 +58,6 @@ ai-interview-coach/
 ## ⚙️ Tech Stack
 
 - **Vanilla HTML/CSS/JS** — No build tools, no dependencies to install
-- **Anthropic Claude API** — `claude-sonnet-4-20250514` for all AI features
 - **Chart.js** (CDN) — Dashboard charts
 - **Font Awesome** (CDN) — Icons
 - **Google Fonts** (CDN) — Syne + DM Sans typography
@@ -96,4 +83,4 @@ ai-interview-coach/
 
 ---
 
-Made with ❤️ — Harshu 202
+Made with ❤️ — Harshu 
