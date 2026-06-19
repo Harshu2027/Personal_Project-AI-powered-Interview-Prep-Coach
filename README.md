@@ -1,6 +1,6 @@
 # 🎯 AI Interview Coach
 
-> Practice. Improve. Succeed. — Powered by Claude AI
+> Practice. Improve. Succeed.
 
 ---
 
